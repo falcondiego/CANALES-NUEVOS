@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 ,13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 ,A24
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+
+#EXTINF:-1 ,AMERICA
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
+#EXTINF:-1 ,C5N
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N.m3u8
+
+#EXTINF:-1 ,CANAL 9
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+
+#EXTINF:-1 ,CNN
+https://stationtv.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+
+#EXTINF:-1 ,CRONICA TV
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+
+#EXTINF:-1 ,EL TRECE
+https://stationtv.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1 ,EL TELEFE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/45_.m3u8?token=Awdn6BBVRhes3OfB5lBGUg&expires=1660698421&ip=190.183.30.82
+
+#EXTINF:-1 ,CANAL 3 DE PINAMAR
+
+#EXTINF:-1 ,ANIMAL PLANET
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1 ,ID DISCOVERY
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 ,LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,TLC DISCOVERY
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+
+#EXTINF:-1 ,TLC DISCOVERY
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=Iz1rcCb-9GDesoxdyM-TAA&expires=1660699579&ip=190.183.30.82
+
+#EXTINF:-1 ,HISTORY CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=ftOPtKAzmoo3IzrbZomLtg&expires=1660701128&ip=190.183.30.82
+
+#EXTINF:-1 ,HISTORY CHANNEL 2
+https://stationtv.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+
+#EXTINF:-1 ,BOOMERANG
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+
+#EXTINF:-1 ,CARTOON NETWORK HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+
+#EXTINF:-1 ,DISNEY JUNIOR
+https://stationtv.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,NICK JR
+https://stationtv.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,NICK
+https://stationtv.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
